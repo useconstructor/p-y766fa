@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#F8F9FA",
+  "secondaryColor": "#FFFFFF",
+  "backgroundColor": "#F8F9FA",
+  "textColor": "#17252A",
+  "accentColor": "#1ABC9C",
+  "fontHeading": "Plus Jakarta Sans",
+  "fontBody": "Inter",
+  "borderRadius": "0.375rem",
+  "logoText": "lavander ",
+  "logoImageUrl": "https://vabacntbfcwhgkjqajcw.supabase.co/storage/v1/object/public/screenshots/projects/P-Y766FA/logo.png",
+  "tone": "energetic"
+}
